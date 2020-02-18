@@ -1,0 +1,9 @@
+{
+  "templates": [
+    { "value": "default", "label": "default" },
+    { "value": "default2", "label": "default2" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
